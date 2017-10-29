@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Car Grid</string>
+
+    <string-array name="website">
+        <item>http://www.audi.com/en.html</item>
+        <item>https://www.bmwusa.com/</item>
+        <item>https://www.lamborghini.com/en-en/</item>
+        <item>http://www.maseratiusa.com/maserati/us/en</item>
+        <item>https://www.rolls-roycemotorcars.com/en-GB/home.html</item>
+        <item>https://www.toyota.com/</item>
+    </string-array>
+
+
+
+    <string-array name="Audiaddress">
+        <item> Fletcher Jones Audi : 1523 W North Ave, Chicago, IL 60642 </item>
+        <item> Greater Chicago Motors : 1850 N Elston Ave, Chicago, IL 60642</item>
+        <item> High Quality Auto Sales : 4201 S Kedzie Ave, Chicago, IL 60632</item>
+    </string-array>
+
+
+    <string-array name="BMWaddress">
+        <item> Perillo BMW : 1035 N Clark St, Chicago, IL 60610</item>
+        <item> Greater Chicago Motors : 1850 N Elston Ave, Chicago, IL 60642</item>
+        <item> Bavarian Motors : 27 N May St, Chicago, IL 60607</item>
+    </string-array>
+
+    <string-array name="Lamboaddress">
+        <item> Bentley Gold Coast : 834 N Rush St, Chicago, IL 60611</item>
+        <item> CARZINC : 14440 S Cicero Ave, Midlothian, IL 60445</item>
+        <item> Lamborghini Gold Coast Showroom : 834 North Rush Street Chicago, IL 60611</item>
+    </string-array>
+
+    <string-array name="Maseratiaddress">
+        <item> Bentley Gold Coast : 834 N Rush St, Chicago, IL 60611 </item>
+        <item> Windy City Motors : 2662 N Cicero Ave, Chicago, IL 60639</item>
+        <item> MASERATI OF CHICAGO : 834 N Rush St, Chicago, IL 60611</item>
+    </string-array>
+
+
+    <string-array name="RRaddress">
+        <item> Windy City Motors : 2662 N Cicero Ave, Chicago, IL 60639 </item>
+        <item> CARZINC : 14440 S Cicero Ave, Midlothian, IL 60445</item>
+        <item> Bentley Gold Coast : 834 N Rush St, Chicago, IL 60611</item>
+    </string-array>
+
+    <string-array name="Toyotaaddress">
+        <item> Grossinger City Toyota : 1561 N Fremont St, Chicago, IL 60642 </item>
+        <item> Chicago Northside Toyota : 5625 North Broadway, Chicago, IL 60660</item>
+        <item> Toyota On Western : 6941 S Western Ave, Chicago, IL 60636</item>
+    </string-array>
+
+
+
+</resources>
